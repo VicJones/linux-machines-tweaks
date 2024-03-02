@@ -1,0 +1,4 @@
+# Set display
+sudo ./target/release/asdbctl set 1-100
+# Show current percent
+sudo ./target/release/asdbctl get
